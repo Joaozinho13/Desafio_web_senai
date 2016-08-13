@@ -1,0 +1,15 @@
+#header {
+    background-color: #555;
+    height: 6%;
+}
+
+#header ul{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+}
+
+#header li {
+    float: right;
+}
