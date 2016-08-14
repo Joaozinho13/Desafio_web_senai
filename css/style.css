@@ -1,15 +1,87 @@
 #header {
-    background-color: #555;
+    background-color: #222;
     height: 6%;
 }
 
-#header ul{
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-	text-align: center;
+#senai{
+	margin: -0.5% 0% 0% 15%;
+	display: inline-block;
 }
 
-#header li {
-    float: right;
+
+#menu ul{
+	margin: -2.5% 20% 0% 0%;
+	padding: 0%;
+	list-style-type: none;
+	text-align: center;
+
 }
+
+#menu li {
+    float: right;
+    margin: 0% 2% 0% 0%;
+
+}
+
+#menu  p{
+    color: #aaa;
+    font-weight: bold;
+}
+
+#banner {
+    background-color: #ff4d4d;
+    height: 90%;
+} 
+
+.logo{
+  display: block;
+  text-indent: -9999px;
+  width: 70px;
+  height: 51px;
+  background-size: 50px 41px;	
+}
+
+
+
+#vantagens{
+	  width: 30%;
+	 margin: 15% 0% 0% 10%;
+	 float: left;
+	 color:#FFF;
+}
+
+#vantagens ul {
+    list-style-image: url(images/bullet.png);
+}
+
+
+#html5{
+	margin: 4% 18% 0% 0%;
+	 float: right;
+}
+
+#html5 img{
+  display: inline-block;
+  width: 80%;
+  height: 80%;
+
+}
+
+.h6{
+	font-size: 250%;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.check-img {
+  width: 20px;
+  height: 15px;
+}
+
+
+#tecnologias {
+    background-color: #aaa;
+    height: 90%;
+} 
