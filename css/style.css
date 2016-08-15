@@ -82,6 +82,93 @@
 
 
 #tecnologias {
-    background-color: #aaa;
+
+    background-color: #FFF;
     height: 90%;
+    width: 100%;
 } 
+
+#html {
+		display: inline-block;
+   width: 33%;   
+} 
+
+#CSS3 {
+		display: inline-block;
+   width: 33%;   
+} 
+
+#js {
+		display: inline-block;
+   width: 33%;   
+} 
+
+.tec{
+  margin-left:15%;
+  padding: 6%; 
+  width: 60%;
+  height: 70%;	
+
+}
+
+.title_tec{
+	 margin-top: -5%;
+	 font-weight: bold;	
+	 font-size: 150%;
+	 color: #555;
+}
+
+.tec_desc{
+ 	color: #555;
+ 	font-size: 120%;
+}
+
+#sobre{
+	 margin-top: 5%;
+	 margin-left: 8%;
+	 margin-right: 6%;
+	 	 
+	 color: #555;
+}
+
+.sobre-title{
+	font-size: 150%;
+	 margin-bottom: 3%
+}
+.sobre-desc{
+	 font-size: 120%;
+}
+
+.fonte{
+	margin-top: 2%;
+}
+
+#cursos{
+	height: 60%
+}
+
+#cursos-preco{
+  	margin:8% 10% 10% 10%;	
+}
+
+#html-preco{
+	display: inline-block;
+	height: 40%;
+	width:33%;
+	background-color: #145676;
+
+}
+#css-preco{
+	display: inline-block;
+	height: 40%;
+	width:33%;
+	background-color: #145676;
+
+}
+#js-preco{
+	display: inline-block;
+	height: 40%;
+	width:33%;
+	background-color: #145676;
+
+}
