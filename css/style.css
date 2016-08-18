@@ -193,12 +193,38 @@
 	background-color: #ff4b1e;
 
 }
+
+
+#html-preco-cabecalho p {
+	color:#FFF;
+
+}
+
+
+#html-preco-cabecalho h2 {
+	font-size:160%;
+	color:#FFF;
+}
+
 #css-preco-cabecalho{
 	height: 20%;
 	width:100%;
 	background-color: #0071bf;
 
 }
+
+
+#css-preco-cabecalho p {
+	color:#FFF;
+
+}
+
+#css-preco-cabecalho h2 {
+	font-size:160%;
+	color:#FFF;
+}
+
+
 #js-preco-cabecalho{
 	height: 20%;
 	width:100%;
@@ -206,8 +232,20 @@
 
 }
 
-.title-html-curso{
+
+#js-preco-cabecalho p {
 	color:#FFF;
+
+}
+
+#js-preco-cabecalho h2 {
+	font-size:160%;
+	color:#FFF;
+}
+
+
+.title-html-curso{
+	color:#EEE;
 }
 
 #footer {
@@ -225,4 +263,8 @@
 	width:100%;
 	background-color: #0071bf;
 	margin:8% 10 0 0;	
+}
+
+.carga{
+	font-size: 10%;
 }
